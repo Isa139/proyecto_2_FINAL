@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>inventory.csv</file>
+        <file>recipes.csv</file>
+    </qresource>
+</RCC>
